@@ -9,12 +9,12 @@
 title: Yue Gao Research Group
 
 # Your name to show in the footer
-author: Some Person
+author: Yue Gao
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Group members"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
